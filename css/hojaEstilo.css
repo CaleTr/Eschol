@@ -52,7 +52,10 @@ html{
     background width: 600;
 }
 
-
+.link-item {
+    text-decoration: none;
+    
+}
 
 
 
